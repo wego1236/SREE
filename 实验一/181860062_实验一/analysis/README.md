@@ -1,0 +1,1 @@
+raw possible requirement.txt是获取的label经过处理得到的可能的需求关键词，经过去重和大写转小写得到possible requirement.txt，get_possible_requirements.cpp是完成这一过程的代码。

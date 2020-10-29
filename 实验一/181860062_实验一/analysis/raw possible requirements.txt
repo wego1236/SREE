@@ -1,0 +1,146 @@
+a11ymas
+accessibility
+api
+design
+breadcrumbs
+build
+bug
+callhierarchy
+candidate
+extension
+color
+comment
+config
+confirm
+context
+debt
+debug
+dev
+dialogs
+dropdown
+duplicate
+editor
+electron
+emmet
+endgame
+engineering
+english
+error
+explorer custom
+explorer
+extensions
+feature request
+file
+font
+format
+freeze
+slow
+crash
+git
+gpu
+grammar
+grid view
+help
+html
+i18n
+icon
+important
+update
+integrate
+intellisense
+config
+invalid
+ipc
+issue
+issue reporter
+reporter
+iteration
+javascript
+json
+keybinding
+keyboard layout
+layout
+L10N
+languages
+layout
+license
+linux
+list
+log
+mac
+macos
+markdown
+marketplace
+menus
+merge conflict
+merge
+conflict
+mojave
+info
+release
+nodejs
+reproducible
+testplan
+outline
+output
+perf
+php
+plan
+polish
+portable
+proxy
+question
+quick pick
+reference
+regression
+release notes
+note
+remote
+rename
+samples
+scm
+screencast mode
+screencast
+search replace
+search
+semantic
+settings
+shared process
+share
+dialog
+smart
+smart select
+smoke test
+snap
+snippets
+splitview
+suggest
+tasks
+telemetry
+testplan
+themes
+titlebar
+tokenization
+trackpad
+scroll
+tree
+typescript
+discussion
+unit test
+test
+upstream
+uri
+ux
+variable resolving
+resolving
+verification
+verified
+VIM
+website
+web
+webview
+windows
+workbench
+workspace
+WSL
+zoom
