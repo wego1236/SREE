@@ -1,0 +1,1 @@
+classify的过程就是根据analysis中获取的possible requirement作为keywords对issues进行分类，分类的依据是issue中出现了哪个keyword就分到哪一类，最后将包含大于20个issue的keyword以及包含的issue作为分类的结果result(classified by keywords).txt，keywords.txt就是包含大于20个issue的keyword列表，classify_with_keywords.cpp是完成这一过程的代码。

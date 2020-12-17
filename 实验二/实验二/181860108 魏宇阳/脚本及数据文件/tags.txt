@@ -1,0 +1,2174 @@
+﻿Outline 16 3.375
+PropertiesView 69 3.130434782608696
+Navigator 61 3.1639344262295084
+implementation 60 3.216666666666667
+DynamicGUI 16 3.25
+Wizards 137 3.7153284671532845
+Viewers 338 3.1893491124260356
+Presentations 127 4.21259842519685
+ltk 18 3.2777777777777777
+rename 39 3.2564102564102564
+ActionSets 23 3.391304347826087
+Contributions 189 3.322751322751323
+resources 8 2.875
+syntax highlighting 25 3.28
+Perspectives 150 3.74
+nls tooling 34 3.5
+CCombo 13 3.1538461538461537
+Program 9 3.111111111111111
+Workbench 182 3.631868131868132
+Editor Mgmt 3 3.6666666666666665
+RCP 88 3.5795454545454546
+Import/Export 90 4.055555555555555
+scrapbook 2 4.0
+IDE 108 3.6666666666666665
+SashForm 5 3.0
+build path 20 3.4
+GlobalActions 41 3.731707317073171
+compare 19 3.1578947368421053
+CVS UI 1 3.0
+EditorMgmt 347 3.1440922190201728
+DND 77 3.0259740259740258
+refactoring 105 3.1714285714285713
+Dialogs 176 3.846590909090909
+jar exporter 12 3.4166666666666665
+MPE 46 3.760869565217391
+search 93 3.5161290322580645
+templates 58 3.3620689655172415
+Webapp 73 3.1780821917808217
+printing 4 4.0
+painting 20 3.4
+javadoc 36 3.7222222222222223
+assist 31 3.2580645161290325
+Widgets 63 3.0317460317460316
+StyledText 36 3.0277777777777777
+WorkingSets 93 3.161290322580645
+hovering 59 3.3728813559322033
+OpenModes 7 3.0
+rulers 46 3.3043478260869565
+formatter 51 3.7450980392156863
+FastView 19 3.1052631578947367
+misc 130 3.3923076923076922
+getter setter 6 3.6666666666666665
+content assist 175 3.1885714285714286
+OLE 53 3.056603773584906
+Services 9 3.2222222222222223
+Help 213 3.028169014084507
+editor 107 3.0186915887850465
+launcher 59 3.016949152542373
+preferences 78 3.3461538461538463
+extract method 31 3.161290322580645
+key binding 22 3.6363636363636362
+typing 118 3.26271186440678
+breakpoints 164 3.048780487804878
+Win32 57 3.017543859649123
+navigation 80 3.275
+Search 73 3.136986301369863
+UX 25 3.08
+code assist 4 3.75
+Cell Editors 2 3.0
+Java 29 4.137931034482759
+change method signature 16 3.0625
+type hierarchy 8 3.5
+Trim 90 3.033333333333333
+extract local 16 2.9375
+Markers 114 3.3947368421052633
+RFE 2 3.5
+package explorer 20 3.3
+browsing 11 3.3636363636363638
+validateEdit 3 3.0
+ScrolledComposite 11 3.0
+launch 77 3.090909090909091
+find/replace 44 3.5454545454545454
+view 3 3.0
+TableCursor 6 3.0
+dialogs 2 3.5
+actions 9 3.4444444444444446
+LinkedResources 37 3.4324324324324325
+working sets 10 3.2
+Clipboard 6 3.0
+Error Parser 2 3.0
+KeyBindings 199 3.457286432160804
+SWT 6 3.0
+JUnit 76 3.3026315789473686
+Palette 19 3.0
+formatting 29 3.310344827586207
+ccp 5 3.0
+filters 2 3.0
+Preferences 159 3.4842767295597485
+reconciling 11 3.0
+Operations 26 4.8076923076923075
+inline 43 3.046511627906977
+Actions 37 3.3513513513513513
+Merge 5 4.6
+render 2 3.0
+DCR 5 3.4
+grammar 2 5.0
+Team 2 4.0
+Editors 29 3.0
+code templates 3 4.333333333333333
+Edit 24 3.125
+Bidi 14 3.0
+reorg 23 3.1739130434782608
+ViewMgmt 104 3.4038461538461537
+quick assist 42 3.0952380952380953
+Sync Info 20 4.3
+README 1 3.0
+api 154 3.0779220779220777
+WorkbenchParts 118 3.9491525423728815
+Sync View 97 3.5876288659793816
+JFace 122 3.4754098360655736
+ErrorHandling 53 3.1132075471698113
+JavaEditor 1 4.0
+UI Guidelines 5 3.0
+About 41 3.097560975609756
+linked mode 8 3.5
+Parser 2 3.0
+quick fix 109 3.2018348623853212
+code style 2 3.5
+usability 16 3.0625
+app 4 3.0
+move method 26 3.1923076923076925
+Subscriber 5 3.4
+Repo View 43 4.6976744186046515
+Commands 141 3.368794326241135
+test framework 3 3.0
+Project Sets 19 4.157894736842105
+syntax coloring 1 3.0
+browser 22 3.0454545454545454
+debug view 60 3.0833333333333335
+msic 1 3.0
+Progress 125 3.52
+Properties 37 3.1621621621621623
+Preference 2 4.0
+Connection 13 4.384615384615385
+patch 36 2.9722222222222223
+History View 36 3.8333333333333335
+clean up 38 3.1578947368421053
+organize imports 19 3.1578947368421053
+tests 38 3.0
+Help Wanted 5 3.0
+Managed Build 3 3.0
+introduce parameter 7 3.142857142857143
+console 71 3.0140845070422535
+move member type 12 3.5833333333333335
+Formatter 14 3.0714285714285716
+local histroy 1 3.0
+language family 1 3.0
+GraphLayout 4 3.0
+Content Type 6 3.1666666666666665
+viewmgmt 10 3.0
+perspectives 5 3.0
+prefs 33 3.242424242424242
+builder 7 3.0
+performance 51 2.823529411764706
+generalize type 11 3.090909090909091
+Keybindings 17 4.176470588235294
+plan item 2 4.0
+encoding 12 3.1666666666666665
+QuickDiff 2 5.0
+SWT Examples 1 3.0
+compiler 196 3.086734693877551
+open type 21 3.4285714285714284
+Tasks 2 5.0
+TableEdtior 2 3.0
+ActivityMgmt 35 3.2285714285714286
+Junit 2 3.0
+menu 24 3.0833333333333335
+Decorators 48 3.5
+move static members 10 3.0
+Patch 62 3.403225806451613
+Tags 7 4.428571428571429
+Themes 51 3.3137254901960786
+spell checking 23 3.652173913043478
+PerspectiveBar 17 3.0
+CellEditors 60 3.2
+select 8 3.0
+use supertype 8 3.125
+Next/Previous Editor 1 4.0
+Comments 2 5.0
+build 26 3.076923076923077
+BiDi 39 3.2051282051282053
+readme 2 3.0
+Fast Views 1 3.0
+Structured Content 1 3.0
+OpenGL 10 3.0
+DetachedWindows 3 5.0
+Fonts/Colors 1 3.0
+Intro 93 3.118279569892473
+DetachedView 16 3.0
+WorkbenchLauncher 71 3.112676056338028
+expressions 33 3.090909090909091
+DetachedViews 16 3.75
+Coolbar 15 3.0
+buildpath 8 3.375
+1.5 34 3.0588235294117645
+Contexts 5 3.0
+FastViews 4 4.0
+Javadoc 5 4.6
+Doc 15 3.8
+CTabFolder 19 3.0
+API 39 3.1538461538461537
+launching 39 3.2051282051282053
+Accessibility 35 2.9714285714285715
+projection 70 3.1
+Modules 10 5.0
+JavaDoc 5 3.4
+jobs 9 3.0
+Status Handling 1 5.0
+perf 2 3.0
+R21PRES 1 5.0
+nls 6 3.1666666666666665
+code manipulation 1 3.0
+Misc 9 4.333333333333333
+Scanner Discovery 18 3.0
+Custom Widgets 1 3.0
+Share 4 4.5
+MinMax 5 3.0
+CBanner 3 3.0
+Change Sets 40 4.3
+variable view 1 3.0
+History 12 3.5833333333333335
+portability 1 3.0
+convert local 7 3.0
+Manifest 11 3.0
+PropertiesDialog 24 3.25
+DnD 34 3.4411764705882355
+Watch/Edit 8 4.75
+watch/edit 1 5.0
+Tests 38 3.0789473684210527
+dnd 15 3.066666666666667
+help 3 3.0
+Encoding 1 5.0
+export 5 3.0
+mark occurrence 4 3.0
+SSH2 17 4.352941176470588
+Variant 1 3.0
+TeamOperations 1 5.0
+Examples 17 3.6470588235294117
+osgi 2 3.0
+JVELAYT09 1 5.0
+CheatSheet 36 3.0277777777777777
+ 39 3.051282051282051
+classpath 4 3.0
+Sharing 2 5.0
+Ignoring 1 5.0
+Sync view 5 3.0
+format 1 5.0
+move 2 3.0
+imports on paste 3 3.6666666666666665
+call hierarchy 13 3.3076923076923075
+Prefs 1 5.0
+source build 1 3.0
+sort members 3 3.6666666666666665
+Content Assist 8 3.0
+WorkspaceLauncher 1 3.0
+Refactoring 30 2.966666666666667
+synch view 1 5.0
+user library 2 4.0
+Mac 28 3.0714285714285716
+markers 4 3.0
+docs 3 3.0
+java launching 2 3.0
+OSX 5 3.0
+PLAN 2 3.0
+string variables 2 3.0
+Edit Text 1 3.0
+CoolBar 2 3.0
+ui 149 3.033557046979866
+consistency 22 3.0
+rpm-plugin 1 3.0
+Replace 2 4.0
+Gtk 5 3.2
+Cocoa 32 3.0
+Min/Max 18 3.0
+ControlExample 2 3.5
+javadoc wizard 6 3.3333333333333335
+Structured Compare 1 3.0
+PresentationsAPI 1 3.0
+visualiser 1 5.0
+Quick fix 1 3.0
+content model 13 2.923076923076923
+Tags Operations 1 5.0
+5.0 20 3.05
+UI 42 3.0238095238095237
+memory 53 3.3962264150943398
+infer type arguments 21 3.0952380952380953
+C++ Parser 1 3.0
+Ruler 2 4.0
+StatusHandling 13 3.923076923076923
+Context 26 3.0
+content type 23 3.130434782608696
+Product Editor 3 3.0
+preference 1 5.0
+Progess 1 5.0
+tutorial 3 2.6666666666666665
+expand selection 2 3.0
+XML Catalog 12 3.0
+model 27 3.111111111111111
+EFS 14 3.4285714285714284
+Browser 112 3.0535714285714284
+performance framework 8 3.0
+URI resolver 4 3.25
+arch 2 3.0
+Graphics 18 3.111111111111111
+AST Binding 1 3.0
+I 1 3.0
+validation 50 2.96
+Algorithms 3 3.0
+relengtool 3 3.6666666666666665
+results 13 3.0
+introduce factory 4 3.25
+outline 8 3.0
+evaluation 12 3.0
+JVECDEGEN01 1 3.0
+builders 1 3.0
+Navigation 8 3.0
+was: Program API enhancement: Static methods that retrieve icons 1 3.0
+highlighting 1 3.0
+Undo 23 3.782608695652174
+extract constant 5 3.0
+using multiple Displays and a Browser 1 3.0
+1.7 24 3.1666666666666665
+CLabel 3 3.0
+Forms 79 3.050632911392405
+type wizards 13 3.3076923076923075
+internal API 1 3.0
+Infer Type Arguments 2 3.0
+HiDPI 14 3.0
+Model 27 3.1481481481481484
+recovery 7 3.2857142857142856
+Guidelines 1 3.0
+pull up 24 3.0
+Java Editor 1 5.0
+properties 11 3.0
+logical struct 1 3.0
+DOM 12 3.0
+Tool 5 3.0
+Settings 1 3.0
+Hovers 1 3.0
+bugzilla 2 3.5
+dom 6 3.3333333333333335
+Zip Viewers 1 3.0
+Image Viewers 3 3.0
+DEBUG 2 3.0
+Improve Page Break Management 2 3.0
+cdt.managedbuild.core 1 3.0
+Make Builder 1 3.0
+doc 40 3.025
+project explorer 5 3.0
+site 2 3.0
+ast rewrite 14 3.0
+correction 7 3.2857142857142856
+DynamicUI 1 3.0
+context 58 3.0689655172413794
+modulecore 4 3.0
+extract interface 7 3.0
+surround with try/catch 1 4.0
+debug 34 2.9411764705882355
+Standard build 1 3.0
+registry 19 3.0526315789473686
+hierarchy 4 3.5
+autorefresh 1 3.0
+index 6 3.3333333333333335
+import rewrite 4 3.0
+Contribution 3 3.0
+workflow 9 3.888888888888889
+deployables 1 3.0
+Cleanup 28 3.0357142857142856
+generate constructor 5 3.0
+code generation 5 3.4
+wording 1 5.0
+CommonNavigator 111 2.963963963963964
+j2ee 3 2.3333333333333335
+Connections 20 3.1
+OutlineView 3 3.0
+AutoScroll 3 1.6666666666666667
+Geoshapes 4 3.0
+Printing 17 3.0
+ZOrderSupport 3 3.6666666666666665
+quick diff 6 3.3333333333333335
+Tag RelEng 1 5.0
+Commit 1 5.0
+new uex 2 3.5
+1.6 1 5.0
+workspace 2 3.0
+req 11 4.454545454545454
+KeyboardBindings 4 3.5
+Model API 2 4.0
+Merge API 1 5.0
+messages 1 5.0
+feature 3 3.0
+ServiceProviders 10 3.0
+DataBinding 105 3.019047619047619
+Subscribers 1 5.0
+Geometry 2 3.0
+property page 1 3.0
+Java Structure Compare 1 4.0
+itd 3 3.6666666666666665
+DeleteFromSupport 9 3.0
+TabbedProperties 33 3.0
+RulersGrid 10 2.9
+PopupDialog 1 3.0
+FilteredTree 9 3.0
+activity 10 3.4
+Metadata 8 3.0
+Repo View Tags 1 5.0
+CDI 2 3.0
+javadoc export 1 3.0
+snippets 2 3.0
+var 12 2.9166666666666665
+standard model 13 3.0
+ast 4 3.25
+Model Sync 11 3.5454545454545454
+Product 5 3.0
+Future 1 5.0
+base parity 1 3.0
+introduce indirection 4 3.0
+ViewForm 2 3.0
+plan 32 2.90625
+Text 9 3.0
+Viewer 1 3.0
+generics 7 3.0
+general 2 3.0
+common 8 3.0
+Features 2 3.0
+Command 1 3.0
+CVS 1 5.0
+Resource Mapping 1 3.0
+cleanup 11 3.0
+Mapping 3 3.6666666666666665
+Presentation 4 3.0
+ValidateEdit 5 3.4
+REGRESSION 1 5.0
+x/y 1 5.0
+x 1 5.0
+J2SE50 1 3.0
+servlets 1 3.0
+Patching 1 3.0
+ImageSupport 6 2.8333333333333335
+annotations 3 3.6666666666666665
+convert anonymous 5 3.0
+PropertiesViewer 1 3.0
+Merge Compare 1 4.0
+DiagramEditor 12 3.0
+ntdll.dll+0x26a2 1 3.0
+null 84 3.0833333333333335
+pattern 3 5.0
+hashcode/equals 6 3.3333333333333335
+Toolbar 2 3.0
+sandbox 9 4.111111111111111
+project creation 1 3.0
+quickfix 2 3.0
+HCG 3 3.3333333333333335
+Improve Report Layout Capabilities 3 3.0
+ltw 8 3.125
+MacOS 5 3.0
+Layout 14 2.9285714285714284
+itds 6 3.0
+RTL 5 3.0
+xdoclet 3 3.0
+Tree 9 3.0
+variables 23 3.0
+undo 3 2.6666666666666665
+LTW 4 3.0
+CopyPaste 9 3.0
+Model Sync Share 1 3.0
+Metadata Conversion 1 3.0
+BIDI, ICU 1 3.0
+Testability, Extensibility 1 3.0
+Field Assist 9 4.111111111111111
+parser 14 3.0
+source lookup 16 3.0
+Quick assist 1 3.0
+Ant 1.7 1 3.0
+Sync 2 3.0
+SyncView 3 3.0
+display 7 3.142857142857143
+j2ee properties 2 3.0
+extract superclass 6 3.3333333333333335
+PDE, Build 1 3.0
+logging 2 3.0
+team 9 2.7777777777777777
+components 4 3.5
+performanc 1 4.0
+Create Patch 4 4.5
+shells 5 3.2
+GMFGraph 3 2.6666666666666665
+options 5 3.0
+Databindings 1 3.0
+generate delegate 2 3.0
+Change Method Signature 1 3.0
+Sync view Commit 1 3.0
+Search, Refactoring 1 2.0
+Modules view 1 3.0
+appint 1 3.0
+limitation 2 3.0
+import/export 6 3.0
+encapsulate field 14 3.142857142857143
+View Mgmt 2 3.0
+tracking 1 3.0
+BIDI 9 3.0
+tools 21 2.9523809523809526
+Serviceability 1 3.0
+GTK/Linux 18 3.2222222222222223
+regression 19 2.6315789473684212
+log 1 3.0
+Schema 6 3.0
+Validation 17 3.0
+Structure Compare 7 3.0
+translation 4 3.0
+connector 18 4.0
+usage 2 4.0
+Memory View 5 3.0
+Content Model 1 3.0
+NoteTextLabel 7 3.0
+Graphical Editor 2 3.0
+ElementSelection 3 3.0
+server 21 3.0952380952380953
+schema 4 3.0
+Linux 4 3.0
+save actions 5 4.0
+UIReduction 1 3.0
+Local History 1 3.0
+sec 30 3.033333333333333
+change sets 2 2.5
+ModelingAssistant 1 3.0
+add import 2 3.0
+ssh 20 2.9
+Jobs 3 3.6666666666666665
+EditPart 5 3.0
+BorderItems 7 3.0
+DragDrop 5 3.0
+internal api 1 3.0
+Manifest Editor 3 3.0
+MBS 2 3.0
+WPE 13 2.923076923076923
+API Request 1 3.0
+ICU 1 3.0
+Usability 14 3.0
+theme 19 2.473684210526316
+services 8 3.0
+view model 11 3.0
+target 75 2.986666666666667
+Annotate 4 3.5
+disassembly 11 3.0
+symbols 2 3.0
+cdi 18 3.0
+Wizard 8 3.0
+Export 5 3.0
+emfWorkbench 1 3.0
+upstream 15 3.066666666666667
+resilisnece 1 3.0
+ClassD 8 3.0
+FieldAssist 21 3.4761904761904763
+ssh shells 1 3.0
+discussion 7 3.5714285714285716
+package-explorer 1 4.0
+e3.5 2 2.0
+multiproject 1 3.0
+Sleak 1 3.0
+folding 1 2.0
+SSH 2 3.5
+Build 11 3.3636363636363638
+jres 1 3.0
+terminal 19 3.0
+accessibility 8 3.0
+Enhancement 8 3.0
+00 6 3.1666666666666665
+Tutorial 1 3.0
+flex 19 3.1052631578947367
+design request 1 3.0
+Data Access usability 2 3.0
+refactoring scripts 2 3.0
+QuickAccess 26 3.076923076923077
+CVSNT 1 5.0
+Linked resources 1 3.0
+bridge 2 4.0
+expr 14 3.0
+evaluations 2 3.0
+xpand 1 3.0
+faces-config editor 2 3.0
+ElementType 2 3.0
+CSS 78 3.0
+pde viz 17 3.0
+0001 3 3.0
+CodeFolding 1 3.0
+PATCH 2 3.0
+Apply Patch 41 3.1463414634146343
+content asssit 1 3.0
+Req 1 3.0
+ActivityD 4 3.0
+Working Sets 2 3.5
+SUBMISSION 1 3.0
+cm 3 3.0
+persistence 7 2.7142857142857144
+detail pane 1 3.0
+logview 8 3.0
+Net 34 3.0588235294117645
+extensions 1 3.0
+DOC 1 3.0
+PropertyView 5 3.0
+monitoring 4 3.0
+Automation 2 3.0
+DateTime 6 3.0
+push down 9 3.0
+configurator 5 3.0
+Scalability 5 4.2
+Call Hierarchy 1 3.0
+Ant 2 3.0
+Design for 2 3.0
+OpenUP_PT 1 3.0
+prov 8 3.0
+Menus 1 3.0
+1-9 1 3.0
+type history 1 3.0
+api tooling 6 3.3333333333333335
+layout 2 3.0
+1203 1 3.0
+manifest 4 3.0
+dstore 28 3.0357142857142856
+Structure Outline 2 3.0
+efs 22 2.9545454545454546
+p2 11 3.090909090909091
+plugin 2 3.0
+e3.3 1 3.0
+Snippets 6 3.0
+ContentAssist 2 3.0
+Indexer 2 3.0
+.. 1 4.0
+viewmmgmt 1 3.0
+Implementation for 2 3.0
+run control 20 3.1
+Project Model 1 3.0
+europa 5 3.0
+junit 4 3.0
+partial patch 1 3.0
+Variables 6 3.0
+shared 20 3.0
+gsoc 2 4.0
+JSR269 1 3.0
+Templates 5 3.0
+override method 4 3.0
+apidoc 7 3.0
+telnet 6 3.0
+refresh 3 1.6666666666666667
+tableview 1 3.0
+Cheatsheet 7 3.0
+Debug 11 2.909090909090909
+Comp 5 3.0
+Compare with Each Other 1 4.0
+Site 1 3.0
+web connector 6 3.6666666666666665
+Type Hierarchy 1 3.0
+reg 1 3.0
+jsr269 1 3.0
+i18n 6 3.0
+Decorations 1 5.0
+1101 1 3.0
+1102 2 3.0
+DOMAST 1 3.0
+encodings 3 3.0
+Feature 7 3.0
+Dialogs  1 3.0
+Acceptance 1 3.0
+Simple 1 3.0
+Usibility 1 3.0
+EMFT Search 1 3.0
+CORE 1 3.0
+builds 1 4.0
+C99 parser 1 3.0
+Scratchpad 2 4.0
+Builders 3 3.0
+Cheat Sheet 2 3.0
+Indenter 1 3.0
+form 1 3.0
+Table 71 3.76056338028169
+decorators 1 3.0
+linux 5 3.2
+mac 5 3.4
+reconcile 2 3.0
+performance tests 2 3.0
+website 6 2.8333333333333335
+ToolTip 2 3.0
+TableEditor 2 3.0
+releng 43 3.0232558139534884
+spec 6 3.0
+ANT 1 3.0
+Theme 2 3.0
+FTP 1 4.0
+commands 15 3.0
+update site 1 3.0
+Launcher 5 3.0
+remotecdt 6 3.0
+resolver 9 3.3333333333333335
+Axis2 1 3.0
+testing 3 2.6666666666666665
+out of scope 1 5.0
+Quick Access 5 3.0
+TOC 2 3.0
+editors 11 3.0
+ftp 9 2.3333333333333335
+Forms? 1 3.0
+Scale 1 3.0
+spy 14 3.0
+Editor 9 3.2222222222222223
+FormText 1 3.0
+indexing 3 3.0
+FieldEditors 2 4.0
+engine 18 3.0
+test 32 2.9375
+Crosstab improvements 1 3.0
+1202 2 2.5
+Cheatsheets 1 3.0
+repo 9 3.111111111111111
+files 1 3.0
+java builder 1 3.0
+transport 28 3.0
+archive 1 3.0
+publisher 65 3.0307692307692307
+Update policy 1 3.0
+pmi 91 2.934065934065934
+Undo/Redo 1 3.0
+GWT 2 3.0
+templates view 7 3.0
+jarprocessor 5 3.2
+was:squiggles look bad on the Mac 1 4.0
+Form 1 3.0
+sourcemapper 1 3.0
+serial 1 2.0
+modules 8 3.0
+RichTextEditor 1 3.0
+balloon tooltip 1 3.0
+detail 5 3.2
+common navigator 12 3.1666666666666665
+leopard 1 3.0
+Duplicate Detection 1 5.0
+ConnectionHandles 1 3.0
+batch 10 3.0
+PreferencePage 1 5.0
+IntroAction 1 3.0
+ColumnViewer 1 3.0
+Joindataset 1 3.0
+refactor 6 3.0
+Plug-in Search 1 3.0
+repository 38 2.973684210526316
+code-maintenance 1 3.0
+Cocoa,Gtk 1 3.0
+forms 2 3.0
+device 2 3.0
+Perspective 1 3.0
+framework 6 2.5
+log view 1 3.0
+dom conformance 1 3.0
+Runtime workbench 1 3.0
+TabFolder 1 3.0
+organize manifest 1 3.0
+ataspectj 3 3.0
+decp 3 3.0
+xslt 3 3.0
+PII 1 3.0
+Snippet 1 3.0
+security 7 3.0
+registers 16 3.0
+Discovery 17 3.1176470588235294
+SLP 5 3.0
+JmDNS 2 3.0
+jnlp 1 3.0
+GC 2 3.0
+Expressions 4 3.0
+new feature 1 3.0
+Show Local Variable 1 3.0
+api tools 1 3.0
+remotesvcs 3 3.0
+discovery 12 2.9166666666666665
+cheatsheets 3 3.0
+New 1 3.0
+wizard 4 3.0
+Compiler 5 3.0
+ToolTips 1 3.0
+External PDOM Gen 1 3.0
+osgi util 1 3.0
+create on paste 2 3.0
+OpenGL - LWJGL 1 3.0
+installer 8 3.0
+SynchView 1 3.0
+JarProcessor 2 3.0
+aspects 9 3.0
+Browser-IE 4 3.0
+schema identifier 1 3.0
+breaking 1 3.0
+hover 8 3.0
+ds tooling 32 3.0
+message editor 1 3.0
+Console 1 3.0
+br 4 2.25
+migration 4 2.75
+e3.4 1 2.0
+plug-in registry 16 3.0
+GTK 42 3.0476190476190474
+cheatsheet 2 3.0
+simple 1 3.0
+Security 6 3.0
+transforms 3 3.0
+admin 7 3.0
+concurrency 4 3.0
+QVTc 1 3.0
+external tools 4 3.0
+tcf 7 3.0
+schema doc generation 1 3.0
+External tools configuration 1 3.0
+number format detail 4 3.0
+progress 1 3.0
+tooling 2 3.0
+planner 45 2.977777777777778
+eclipse 7 3.0
+fwkAdmin 8 3.0
+multi-lingual plug-ins 1 3.0
+director 17 3.0
+dropins 6 3.0
+GSOC2008 1 3.0
+Index 6 3.0
+expression 1 3.0
+reconciler 20 3.15
+open plug-in artifact 1 3.0
+UMLX 1 3.0
+ds 9 3.0
+breadcrumb 16 3.25
+extract class 3 3.6666666666666665
+externalization 2 2.0
+lang 1 2.0
+13 8 3.0
+update policy 12 3.0
+Feature Request 3 3.0
+wince 1 4.0
+Activities 1 3.0
+project 9 3.0
+Zest 2 3.0
+EMF 3 3.0
+jsr199 2 3.0
+keybinding 2 3.0
+DSL2JDT 1 3.0
+EclipseLink 16 2.75
+resource monitoring 1 3.0
+LogicDiagram 1 3.0
+Localization 1 3.0
+WinCE 2 3.0
+Bundle Manifest Editor 1 3.0
+multicore 4 3.0
+core 7 3.0
+language support 7 3.0
+Make Targets View 2 3.0
+New Project Wizard 1 3.0
+agent 3 3.0
+jface 5 3.0
+was: No Watch Preferences GUI 1 3.0
+cache 2 3.0
+analyzer 1 3.0
+native 3 3.0
+annotation 1 2.0
+delta 2 3.0
+SWT Examples - SWT Controls 1 3.0
+non-stop 3 3.0
+Expression 4 3.0
+... 2 3.0
+Ruby Documentation 1 3.0
+matching 1 2.0
+Databinding 8 3.125
+Basic / Ruby Build-In Debugger 1 3.0
+makefile 1 3.0
+plug-in junit 1 3.0
+contenttype 1 3.0
+rseterminal 2 3.0
+Rich Text 1 3.0
+ColumnViewerEditor 1 3.0
+Shell 4 3.0
+expressoins 1 3.0
+memory view 1 3.0
+planning 1 2.0
+vm 5 3.0
+generator 6 3.0
+ip 1 3.0
+CheatSheets 1 3.0
+JUnit  1 3.0
+changeset 2 3.0
+mirror 7 3.0
+Help wanted 2 3.0
+product 7 3.0
+processes 1 3.0
+signals 1 3.0
+concurrent 5 3.0
+Quick Fix 1 3.0
+Publishing 1 3.0
+site_login 1 4.0
+BlockSelection 6 3.0
+org 2 3.0
+UA 1 3.0
+metadata 10 3.0
+Graphical Editor, Properties 1 2.0
+plugin discovery 1 3.0
+Regression 7 2.857142857142857
+WrappingLabel 1 3.0
+number format 1 3.0
+Theming 8 3.0
+ResizableCompartmentFigure 1 3.0
+Import executable wizard 1 3.0
+was: Search by flag 1 3.0
+Flex 1 3.0
+Java Scrapbook 1 3.0
+provider 2 3.0
+menus 2 3.0
+maps processor 1 3.0
+About Feature Dialog 1 3.0
+frameworkadmin 3 3.0
+jdt-weaving 1 3.0
+fwAdmin 1 3.0
+l10n 1 3.0
+debug regression 1 2.0
+statushandling 5 3.0
+Carbon 1 3.0
+Memory 3 3.0
+sync 3 3.0
+New Diagram Wizard 1 3.0
+wireadmin 1 3.0
+64 2 3.0
+update 3 3.0
+stats 1 3.0
+QVTo 1 3.0
+Grid 2 4.0
+Statushandling 1 3.0
+tml 1 3.0
+vncviewer 1 3.0
+SWT_AWT 6 3.0
+3.5 1 3.0
+Util 1 3.0
+Submission System 1 3.0
+block selection 17 3.235294117647059
+query 1 3.0
+PHP 5.3 1 2.0
+touchpoint 1 3.0
+perfs 8 3.0
+CVS repositories 1 3.0
+handles 5 3.0
+stack 4 3.0
+cocoa 7 3.0
+completion 3 3.0
+All diagrams 7 3.0
+multi-process 7 3.0
+modeling [ds tooling 1 3.0
+language 7 3.0
+split 2 3.0
+Linked Resources 3 3.6666666666666665
+Performance 4 3.0
+revert 2 3.0
+Ctrl+ 1 5.0
+Shift+ 1 5.0
+GMF 3 3.0
+inpath 1 3.0
+remotesvc 1 3.0
+r-osgi 2 3.0
+ant editor 1 3.0
+sftp 2 3.0
+document 6 3.0
+pda 8 3.0
+privacy 1 2.0
+file 1 3.0
+CPD 4 3.0
+Group 1 3.0
+incremental 1 3.0
+template 2 3.0
+14 20 3.0
+DB 26 3.0
+Compare 5 3.0
+checker 4 3.0
+Launch 5 2.8
+BIDI3.5 2 3.0
+fiximprove 11 2.6363636363636362
+AbstractPropertySection 1 3.0
+AppDescEditor 1 3.0
+1205 1 3.0
+reverse 10 3.0
+Device 2 2.5
+SWT-AWT 1 3.0
+examples 2 3.0
+OS X 3 3.0
+DT Skinning 1 3.0
+fwkadmin 1 3.0
+refactoring  1 3.0
+Block Selection 3 3.0
+UseCaseD 1 3.0
+syntax 1 3.0
+build properties editor 1 3.0
+io 1 3.0
+eclipse touchpoint 1 3.0
+example 4 3.0
+NLS tooling 1 3.0
+All Diagrams 28 3.0
+Wiki 2 3.0
+Picassa 1 3.0
+weaving 1 3.0
+UMLCreateShortcutAction 1 3.0
+touchpoints 1 3.0
+Tooling 53 3.0943396226415096
+intro 2 3.0
+xpath2 8 3.0
+Compatibility 57 3.0701754385964914
+tracepoints 13 3.0
+plugin dependencies 1 3.0
+New CDT project wizard 1 3.0
+Branch/Tag 1 3.0
+Investigate 1 3.0
+SDK 1 3.0
+spell cecking 1 3.0
+xpath 1 3.0
+category 4 3.0
+DS 9 3.0
+Regex Error Parser 1 3.0
+callgraph 3 3.0
+incubator 3 3.0
+tooltip 1 3.0
+0008 1 3.0
+0300 1 3.0
+use scan 1 3.0
+Image Loading 1 3.0
+modeling 10 3.0
+masterdetails 1 3.0
+aggregator 4 3.0
+0705 1 3.0
+preprocessor 1 3.0
+SWT/AWT 3 3.0
+CDO 12 3.3333333333333335
+repo2runnable 1 3.0
+cdt 4 3.0
+contentassist 5 3.0
+Virtual Resources 1 3.0
+cdt.make.core 1 3.0
+incubating 1 3.0
+API Usage Problem 1 3.0
+OLE Editor 1 3.0
+PaperClips 1 3.0
+editPart 1 3.0
+ENTITY GEN 1 3.0
+General 10 2.9
+import 5 3.0
+variable 1 3.0
+with patch 1 3.0
+10.6 1 3.0
+Filters 3 3.0
+Managed project 1 3.0
+win32 14 3.0
+DS Editor 3 3.0
+Project Clean Dialog 1 3.0
+CompositeDiagram 6 3.0
+reviews 1 3.0
+Community 1 3.0
+LRParser 1 3.0
+misc2010 1 3.0
+Animation 1 3.0
+WinXP 1 3.0
+ClassDiagram 20 3.0
+headless 1 3.0
+ToolBar 2 3.0
+JPA2.0 1 3.0
+widgets 2 3.0
+ua 1 3.0
+meta 6 3.0
+Variables View 2 3.0
+GravityConstrainedFlowLayout 1 3.0
+explanation 1 3.0
+backend 2 3.0
+backend-test 1 3.0
+EditPolicy 1 3.0
+CA 1 3.0
+Component Editor 1 3.0
+remotesrvs 1 3.0
+ProjectSet 1 3.0
+JSF2.0 5 3.2
+AllDiagram 2 3.0
+AllLinks 1 3.0
+Block-Selection 1 3.0
+notation 1 3.0
+eventadmin 1 3.0
+rfc157 1 3.0
+environment,parser 1 3.0
+oslc 1 3.0
+Director 2 3.0
+UI Forms 1 3.0
+windows 4 3.25
+Launch configuration 1 3.0
+Bowser 1 3.0
+feature launch 1 3.0
+repotools 1 3.0
+MPC 1 2.0
+doc Memory Browser 1 3.0
+Debug Update Modes 1 3.0
+acc 1 3.0
+wpe 1 3.0
+wp 1 3.0
+bp 3 3.0
+Palettes 12 3.0
+Bidi3.6 2 3.0
+DI 6 3.0
+BIDI3.6 1 3.0
+documentation 29 3.0
+Diagram 17 3.0
+1200 1 3.0
+Team UI 1 3.0
+gc 1 3.0
+frame sync 2 3.0
+operation 1 3.0
+DeferredContentProvider 1 3.0
+Move to EMF Facet 4 5.0
+Project | File 1 3.0
+Antlr 1 3.0
+spell-check 1 3.0
+DNS-SD 5 3.0
+scm 1 3.0
+jdbc 1 3.0
+libraries 1 3.0
+useradmin 1 3.0
+metatype 1 3.0
+Themeeditor 1 3.0
+RSE and PDT 1 3.0
+Xtend 3 3.0
+Disassembly 1 3.0
+FindReferences 1 3.0
+56 1 3.0
+JavaExtensions 1 3.0
+Problems View 1 3.0
+proposals 1 3.0
+Pulsar 1 3.0
+Swordfish 1 3.0
+local 2 3.0
+Check 1 3.0
+rseserver 1 3.0
+Appearance 3 3.0
+otmodel 2 3.0
+itit 1 3.0
+dialog 1 3.0
+FR 1 3.0
+All Diagram 5 3.0
+Upload 1 3.0
+jdt 16 3.0
+remote debug 2 3.0
+cdt.managedbuilder.core 1 3.0
+RenderingEngine 13 3.0
+GrammarLang 1 5.0
+wtp 1 3.0
+again 1 3.0
+Legacy 8 3.0
+bidi 7 3.0
+jsdt 1 3.0
+atf 1 3.0
+ViewService 1 3.0
+Source Locator 1 3.0
+EMFMetamodel Tooling 1 3.0
+project setup 1 3.0
+Dawn 5 3.0
+hcr 1 3.0
+hotbug_request 1 3.0
+exceptions 2 3.0
+cdt.managedbuilder.ui 1 3.0
+ATL 1 3.0
+All links 1 3.0
+Proxy 2 3.0
+e4 5 2.6
+darktheme 4 2.5
+jSLP 1 3.0
+Composite 1 3.0
+quickfixes 2 3.0
+Model Browser 2 5.0
+Zookeeper 1 3.0
+SSE 2 3.0
+pretty printers 7 3.0
+Generics 1 3.0
+debugger 15 3.2666666666666666
+ipad 3 3.0
+Grammar 1 3.0
+Cosmetic 2 3.0
+C++0x 2 3.0
+EDP 10 3.0
+Cache 1 3.0
+ProxyManager.java:330 1 3.0
+SWT Browser 1 3.0
+thread sync 1 3.0
+Gen 1 3.0
+comparator 2 3.0
+Project Explorer 4 3.0
+Standalone 1 3.0
+Java discoverer 1 5.0
+deprecation 1 3.0
+JavaTypes 1 5.0
+Menu Diagram 1 3.0
+Workflow 2 5.0
+Browser-Safari 1 3.0
+contexts 1 3.0
+hudson 1 3.0
+Product/Feature Editor 1 3.0
+DOM/AST 2 3.0
+Team Synchronize 1 3.0
+eclipselink.logging.parameters 1 3.0
+ActivityDiagram 34 3.0
+3.6.x 1 3.0
+File 1 3.0
+a 1 3.0
+MediaWiki 2 3.0
+JSP 1 5.0
+Deprecated 1 5.0
+Breakpoint 1 3.0
+Marte 2 3.0
+multithread 3 3.0
+ConcreteSyntaxValidator 1 3.0
+across partitions 1 3.0
+AST 1 3.0
+Composition 1 5.0
+Pin&Clone 7 3.0
+method 1 3.0
+type 1 3.0
+environment 3 3.0
+sourcelookup 1 3.0
+remoteserviceadmin 1 3.0
+tool 2 3.0
+request 1 3.0
+WebKit 3 3.0
+Web 1 3.0
+proxy 1 3.0
+traceview 1 3.0
+Bugzilla 7 3.0
+BIDI3.7 1 3.0
+Memory Browser 3 3.0
+Java-KDM 4 5.0
+multi-core 1 3.0
+runcontrol 2 3.0
+Bookmarks 1 3.0
+pin&clone 1 3.0
+diagram 3 3.0
+evaluator 13 3.0
+Registers View 1 3.0
+EPFT 1 3.0
+Utils 4 5.0
+AllDiagrams 1 3.0
+Id 1 2.0
+xmpp 1 3.0
+all-stop 3 3.0
+Xbase 7 3.0
+R4E 1 3.0
+license 1 3.0
+SFS 1 3.0
+Dev 3 5.0
+DeploymentDiagram 5 3.0
+Enhancements 1 3.0
+ModelTooling 1 3.0
+KDM-UML 1 5.0
+EMF Runtime Extensions 2 2.0
+xtext 3 3.0
+Benchmark 1 5.0
+Combo 1 3.0
+Spinner 2 3.0
+ScrollBar 1 3.0
+enh 1 3.0
+Mac OS X 2 3.0
+Query 2 5.0
+fn 2 3.0
+identity 2 3.0
+WebHTMLView scrollWheel: 1 3.0
+Key Bindings 2 3.0
+Control Panel 1 3.0
+remote 10 3.2
+attach 3 3.0
+qf 2 3.0
+SysML 1.4 48 3.0208333333333335
+IBD 11 3.0
+Test failures 1 2.0
+XLC++ Parser 1 3.0
+extensibility 2 3.0
+Model Explorer 20 3.0
+postmortem 2 3.0
+details 1 3.0
+client 17 3.1176470588235294
+FORMS 1 3.0
+threads 1 3.0
+unifyprofiling 2 3.0
+translator 1 3.0
+cdt.launch.remote 1 3.0
+vars 1 3.0
+future 1 3.0
+SD 2 3.0
+mt4e 2 3.0
+drag and drop 1 3.0
+ElementTypes 3 3.0
+UMLTypes 2 3.0
+IGenerator 1 3.0
+Task 1 4.0
+Native Launcher 1 3.0
+Restructuring 5 2.4
+EMF Databinding 1 3.0
+tracepoint 2 3.0
+lnf 1 3.0
+Query2 1 3.0
+unix 1 3.0
+impl 8 3.0
+model explorer 1 3.0
+Debug Console 1 3.0
+RBD 9 3.0
+Xtend/Xpand IDE Integration 1 3.0
+mediawiki 1 3.0
+Eclipse - 357733 1 3.0
+gerrit 1 3.0
+restart 1 3.0
+similar to Search View 1 3.0
+rejected 1 3.0
+DSTORE 1 3.0
+Subsystems 5 3.0
+4.2 2 3.5
+ProfileDiagram 8 3.0
+Debugger 5 3.0
+Unit Test Failure 15 4.066666666666666
+Apply patch 1 3.0
+file/directory dialog 1 3.0
+onKeyDown,onKeyPress,onKeyUp,onFocusGained,onFocusLost 1 3.0
+Planner 1 3.0
+Arrange All 1 3.0
+Comment 1 3.0
+resource 9 3.0
+Repo view 1 3.0
+serializer 5 3.0
+StateMachineDiagram 16 3.0
+http 4 3.0
+debugging 2 3.0
+PolylineConnectionEx 1 3.0
+Entity Gen 1 3.0
+xtend 11 3.0
+pivot 68 3.0
+Ignored 7 5.0
+visualizer 25 3.0
+Improvement 12 3.0
+SequenceDiagram 29 3.0
+repoView 2 3.0
+Properties view 4 3.0
+Run/Debug History 1 3.0
+apt6 1 3.0
+Equinox Shell 1 3.0
+ComponentDiagram 7 3.0
+nano 1 3.0
+Keybinding 1 3.0
+epub 1 3.0
+10.7 1 3.0
+ptp-user 1 3.0
+historyView 4 3.0
+Marker Help 1 3.0
+Compatilibty 1 3.0
+ControlMode 6 3.0
+oclinecore 5 3.0
+UML - Import 1 3.0
+Sash 1 3.0
+MARTE 3 3.0
+Subclipse 1 3.0
+Scripting 2 3.0
+VerifyEvent 1 3.0
+membership 1 3.0
+GEF4 2 3.0
+Xtext 1 3.0
+LML 2 3.0
+loop 4 3.0
+TCP/IP Monitor 1 3.0
+vaiable 1 3.0
+impact 1 3.0
+scanner discovery 1 3.0
+Regression Issue 1 3.0
+all 1 3.0
+sfs 2 3.0
+timeout 1 3.0
+Tests runner 1 3.0
+subwords 4 3.0
+33x 1 3.0
+Android 3 3.0
+List 1 3.0
+iOs 1 3.0
+sd90 3 3.0
+Configurator 1 3.0
+Validation Runtime Extensions 1 3.0
+gcc 1 3.0
+xbase.lib 2 3.0
+CDO Discoverer 1 3.0
+xbase 15 3.0
+WAR Product 1 3.0
+scp 1 3.0
+Properties View 12 3.0
+1.8 150 3.013333333333333
+DBCS4.2 8 3.0
+tasks 1 3.0
+trac 1 3.0
+bug 9 3.0
+package-info 1 3.0
+Custom 1 4.0
+Java-Kdm 1 5.0
+Releng 12 3.25
+10.8 1 3.0
+167 1 3.0
+using SVN Kit connector 1 3.0
+breakoints 1 3.0
+Client 3 3.0
+Code assist 1 3.0
+template expressions 1 3.0
+Mac Cocoa 1 3.0
+Cascading 3 3.0
+Colors 1 3.0
+Oscilloscope 1 3.0
+Alf 2 3.0
+naming 1 3.0
+findbugs 1 3.0
+Xcore 1 3.0
+Discoverers Framework 1 2.0
+Techno:Struts 1 5.0
+Analysis: From Ganymede+CDT5.0.2 to Juno+CDT8.1.0 1 3.0
+NAME 1 2.0
+EGL 1 3.0
+Profiles 13 3.0
+terminal-serial 1 3.0
+Virgo Nano 1 3.0
+Model Management 3 3.0
+Team Working 1 3.0
+<entity id field> 1 2.0
+Core Services 1 3.0
+terminate 8 3.0
+ecore2xtext 1 3.0
+C++11 2 3.0
+C++14 6 3.0
+enhancement 1 3.0
+review 1 3.0
+Diagram Common 1 3.0
+BrowserFunction 2 2.5
+navigator 4 3.0
+CQ Approved 2 3.0
+*Tool|*Menu 1 3.0
+Check|Radio 1 3.0
+Win8 1 3.0
+Juno version 1 3.0
+CBI 12 2.9166666666666665
+Core 2 3.0
+Debug Mode 1 3.0
+Pivot 2 3.0
+Rename class 1 3.0
+compare editor 1 3.0
+OCL 15 3.0
+Push Down Method 1 3.0
+Pull Up Method 2 3.0
+Path Variables 1 3.0
+emfworkbench 1 3.0
+Add parameter 1 3.0
+C++ codegen 1 3.0
+Stability 1 3.0
+artifact 1 3.0
+e4.2.2 1 3.0
+Accesibility 1 3.0
+Bug 3 3.0
+JPA 2.1 1 2.0
+moka 1 3.0
+pivot2ecore 1 3.0
+p2QL 1 3.0
+typesystem 6 3.0
+DetachedWindow 1 3.0
+XtextResourceSetProvider 1 3.0
+linking 3 3.0
+Mixed Mode 1 3.0
+eval 3 3.0
+auto-complete 1 4.0
+Moka 5 3.0
+Migrate 1 3.0
+receiver parameter 1 5.0
+bidi2013 3 3.0
+request handler 1 3.0
+Diagrams 5 3.0
+codegen 7 3.142857142857143
+Hyperlink 2 3.0
+active annotations 3 3.0
+EGF-Build Portfolio 3 3.0
+EMF Compare 3 3.0
+DBCS4.3 2 3.0
+CODAN 1 3.0
+BiDi 2013 1 3.0
+htmlpublisher 1 3.0
+Bidi2013 2 4.0
+proposal 28 3.0
+aa 4 3.0
+TypeHierarchy View 1 3.0
+UsecaseDiagram 8 3.0
+TMF 27 3.0
+remediation 3 3.0
+All Diagram Editors 1 3.0
+REQ 1 4.0
+Remediation 3 3.0
+DetachedEditor 1 3.0
+I18n 1 3.0
+Accessibility (disabilities) 1 3.0
+CLA 3 3.0
+relen 1 3.0
+Linux i386 1 3.0
+ch.qos.logback.classic.LoggerContext 1 3.0
+Distributed EventAdmin 2 3.0
+MetaModel API 1 2.0
+types 1 3.0
+swt 2 3.0
+e4xmi 1 3.0
+JFace Databinding 1 3.0
+Mac 10.9 1 3.0
+@Property 1 3.0
+viewers 1 3.0
+Markup 1 3.0
+remote perf 1 3.0
+rse 1 3.0
+investigate 1 3.0
+Markdown 1 3.0
+internal 3 3.0
+OSLC4J 1 3.0
+auth 1 3.0
+JFace DataBinding Viewers 1 3.0
+OCLInEcoreEditor 1 3.0
+lexer 1 3.0
+dsf 1 3.0
+partialParsing 1 3.0
+uml 6 3.0
+as2cs 6 3.0
+All diagram 1 3.0
+autocomplete 1 5.0
+Performances 6 3.0
+Menu 1 3.0
+Code Formatter 1 3.0
+optimization 1 3.0
+UMLTextEditors 1 3.0
+r-OSGi 1 3.0
+CommonDiagram 3 3.0
+UMLModelExplorer 2 3.0
+E4 2 3.0
+TMF UI 3 3.0
+Tmf ui 3 3.0
+EclipseContexts 1 3.0
+providers 2 3.0
+MQTT 2 3.0
+dom ast 5 3.2
+123456 1 2.0
+TCF 1 3.0
+libsoup-2.4.so.1+0x6dab1 1 3.0
+0.10.1 1 3.0
+compare_path 1 3.0
+Split editor 2 3.0
+LTTng 2 3.0
+occurrences 1 3.0
+uml,cg 1 3.0
+Signed-off-by 1 3.0
+ProjectExplorer 2 3.0
+Target 3 3.0
+All 1 5.0
+flow 1 4.0
+feature request 1 3.0
+Stereotype 1 3.0
+OCLInEcore 3 3.0
+1.7- 3 3.0
+Umbrella 1 3.0
+suspected culprit - javac 1 3.0
+JAWS 3 3.0
+0.11 1 3.0
+Model Spy 1 3.0
+inference 29 2.9655172413793105
+restructure 6 3.0
+doc releng 1 3.0
+Debug view 2 3.0
+REQUEST 1 3.0
+libgdk-x11-2.0.so.0+0x5173f 1 3.0
+Console Telnet 1 3.0
+Parametric 6 3.0
+code select 2 3.0
+Spring 3.x 1 3.0
+TimingDiagram 2 3.0
+JvmTypes 1 3.0
+Apply 1 3.0
+OK 1 3.0
+Symbol 1 3.0
+coordinator 2 3.0
+Mars 2 3.0
+ASTRewrite 1 5.0
+create 1 3.0
+findrefs 1 3.0
+DateTime calendar 1 3.0
+EPP 1 5.0
+Documentation 5 3.0
+sources 1 3.0
+RSA 15 2.933333333333333
+Generator 2 3.0
+Hover 2 3.0
+WEBKIT 1 3.0
+UI Tests 1 3.0
+ValidityView 1 3.0
+New Class Wizard 1 3.0
+selection 1 3.0
+TERMINALS 12 2.9166666666666665
+Retina 1 3.0
+font 1 3.0
+Git 1 3.0
+completeocl 3 3.0
+Team Concept 1 3.0
+Model Editor 4 3.0
+DebugAntlrGeneratorFragment 1 3.0
+Sash Model 1 3.0
+P2 1 3.0
+DND addon 1 3.0
+winpty 1 3.0
+CDT 1 3.0
+xtype 1 3.0
+contentAssist 1 3.0
+e4.emf.xpath 1 3.0
+link 1 3.0
+PDT 3 3.0
+lttng rcp 1 3.0
+LinkLF 3 3.0
+Perf test 1 2.0
+UML 2.5 1 3.0
+scripts 2 3.0
+Linking 1 3.0
+specification 5 3.0
+library 5 3.0
+LinksLF 6 3.0
+Launch Bar 1 3.0
+mylyn 3 3.0
+wb 3 3.0
+1.7.0.r44x201405021445.201410082322 1 3.0
+egit 8 3.0
+platform 26 3.0
+sirius,gmf 1 3.0
+sirius 4 3.0
+pde 7 3.0
+OCL Xtext Editor Console In Papyrus 1 3.0
+Calendar 1 3.0
+jmdns 2 3.0
+LTTng Control 1 3.0
+text 1 3.0
+Tree table 1 3.0
+DiaGen 5 3.2
+ADL4Eclipse 1 3.0
+integration with hotswap apps like spring-loaded 1 3.0
+net4j 1 3.0
+any 4 3.0
+Mars aggregator 1 3.0
+AA 1 3.0
+platform,ecp 1 3.0
+jdt,pde 1 3.0
+ocl 1 3.0
+equinox jetty 1 3.0
+generators 1 4.0
+AFViewpoints 4 3.5
+Tree Table 3 3.0
+performance ui 1 2.0
+State system 2 3.0
+xtext,xtend 1 3.0
+egit,rec 1 3.0
+qvti 7 3.0
+remoteservices 1 3.0
+ModelRepair 1 3.0
+GTK3 27 3.0
+rec 1 3.0
+xtext,gmf 1 3.0
+wtp,xtext 2 3.0
+platform,emf 1 3.0
+UMLPropertiesView 3 3.0
+Discuss 1 3.0
+JSDT 1 3.0
+Toolsmiths 2 3.0
+SysML 3 3.0
+Restore 1 3.0
+EEF v1.3.0 1 3.0
+common.types 1 3.0
+GDB 1 3.0
+qdesigner 1 3.0
+external 7 3.0
+cg 26 3.0
+Missing functionality 1 5.0
+BPMN 2 3.0
+naming convention 1 3.0
+UML 3 3.0
+Serializer 1 3.0
+1.9 10 3.0
+ModelingAssitants 1 3.0
+relang 1 3.0
+e4 on RAP 1 3.0
+compile 4 3.0
+Tomcat 1 3.0
+AbstractTextEditor 1 3.0
+CSSEngine 1 3.0
+cg-tables 1 3.0
+scheduler 2 3.0
+e4 DataBinding 1 3.0
+bower 1 3.0
+Improvement GanttChart 1 3.0
+Win/GTK 1 3.0
+hidpi 3 3.0
+Component Diagram 1 3.0
+Diagram - ModelExplorer 1 3.0
+Dark 3 3.0
+doc build 1 3.0
+exec 1 3.0
+ALF 7 3.0
+DirectEdit 1 3.0
+QVTp2QVT1 1 3.0
+http whiteboard 1 3.0
+rex 1 3.0
+OneFile 2 3.0
+Suggestion 1 3.0
+Infra 1 3.0
+wiring 11 3.0
+Export Diagram 1 3.0
+Marte VSL 1 3.0
+ModelSearch 2 3.0
+ModelImport 2 3.0
+models 4 3.0
+Library 1 3.0
+e4.4 1 3.0
+ALFIntegration 2 3.0
+Popup Menu 1 1.0
+BACK END 2 3.0
+launchbar 1 3.0
+PyDev 1 3.0
+ldap 1 3.0
+JSch 1 3.0
+sm 2 4.0
+otdre 7 3.0
+lookup 1 3.0
+BACK-END 1 3.0
+runtime 9 3.0
+container|report|service 1 3.0
+UML-RT 2 3.0
+Sync Service 2 3.0
+Cheat sheet 1 3.0
+news 2 3.0
+other diagrams 1 3.0
+classic 2 3.0
+Content assist 1 3.0
+Designer 8 3.0
+oomph 3 3.0
+Hierarchical view 1 3.0
+Slider 1 2.0
+gtk 2 3.0
+gitflow 1 3.0
+Import 2 3.0
+New Browser 3 2.0
+MOKA 3 3.0
+room 1 3.0
+ComputerSystem 2 3.0
+BDD 7 3.0
+Canonical 1 3.0
+Gtk3 2 3.0
+GEF 1 3.0
+CompositeStructureDiagram 1 3.0
+Gtk 3.14 1 3.0
+otre 1 3.0
+Dark Theme 15 2.933333333333333
+Application Model Editor 1 3.0
+CDT integration 1 3.0
+Startup 1 3.0
+PMI 2 3.0
+win10 2 3.0
+No Application 1 3.0
+solstice 1 3.0
+PHP7 1 3.0
+Synchronization 2 3.0
+e4 Model Fragment 1 3.0
+Incubation 1 3.0
+UML Diagram Frame 2 3.0
+Samples 2 3.5
+j2x 1 3.0
+j2x|xbase 1 3.0
+Error parser 1 3.0
+UCOSP 5 3.0
+Model import Test 1 3.0
+Expansion 3 3.0
+e4 Tools 1 3.0
+Model Import Test 1 3.0
+Technologies 1 3.0
+Model Import - RT 2 3.0
+resolve 1 3.0
+inout 1 3.0
+SECURITY 1 3.0
+0 1 3.0
+Website 1 3.0
+model import test 1 3.0
+Model Import 7 3.0
+Mode Import - RT 1 3.0
+incompatibility 2 3.0
+scala 1 3.0
+Push Down 1 3.0
+Codegen C++ 2 3.0
+Ecore Editor 8 1.25
+word wrap 4 3.0
+NewChild 1 3.0
+snipmatch 1 3.0
+VIEWPOINT 1 3.0
+BDD/IBD 1 3.0
+SerializerFragment 1 3.0
+tern 1 3.0
+Package Explorer 1 3.0
+aeri 1 3.0
+UMLValidation 3 3.0
+ModelEditor 3 3.0
+network 4 3.0
+standalone 1 3.0
+new child 1 3.0
+USS 3 3.6666666666666665
+textual 1 3.0
+AQL 4 3.0
+HTML 3 3.0
+html 1 3.0
+Java 8 annotations 1 3.0
+IE 1 3.0
+Label service 1 3.0
+Facet 2 3.0
+Test 4 3.0
+cs2as 3 3.0
+CDT Integration and Class Diagram 1 3.0
+CS2AS 1 3.0
+windows package 1.0 1 3.0
+Maven 2 3.0
+GTK3.20+ 1 3.0
+grunt 1 3.0
+gulp 1 3.0
+add parameter 1 3.0
+qvtr2qvtc 3 3.0
+TextEditors 1 3.0
+Activity Explorer 1 3.0
+ocl25 1 3.0
+Papyrus-Req 1 3.0
+XML Editor 1 3.0
+reports 4 3.0
+Plugin Image Browser 1 3.0
+LaunchBar 2 3.0
+OS Resources View 1 3.0
+New Child 1 3.0
+valgrind 1 3.0
+FHIR 1 3.0
+asciidoc 6 3.0
+[anchors 1 3.0
+model editor 1 3.0
+Launch Configurations 1 3.0
+Local 1 3.0
+History tab 1 3.0
+CustomHiDPI 6 3.0
+addPackProperties 1 3.0
+re-work if/when fixed in Hudson 1 3.0
+IDEA 2016.1 1 3.0
+C++17 6 3.0
+developer 1 3.0
+Welcome 6 3.0
+Generator | Data Group 1 3.0
+This refactoring cannot be used to move  potentially recursive methods 1 3.0
+This refactoring cannot be used to move native methods. 1 3.0
+pull up method 1 3.0
+Method declared in type has visibility lower than 1 3.0
+ES6 1 3.0
+Traditional, Floating Point Renders 1 3.0
+TestCase 1 3.0
+acorn 1 3.0
+Sequence Diagram 7 3.0
+maven 2 3.0
+Smart project import 2 3.0
+Validator 1 3.0
+qvts 19 3.0
+Gerrit 1 4.0
+dynamic printf 1 3.0
+designer 2 3.0
+neon 1 3.0
+test launch config 1 3.0
+Win 2 3.0
+InformationModeling 3 3.6666666666666665
+PY4J 1 3.0
+ocl2qvtp 1 3.0
+HighDPI 4 3.0
+BUG 1 3.0
+CommunicationDiagram 1 3.0
+SysML 1.1 1 3.0
+remote launch 1 3.0
+Reconciler 1 3.0
+XDebug 2 3.0
+Include/Build Path 1 3.0
+newindex 11 3.0
+Genmodel Editor 1 1.0
+TMF XML 1 3.0
+snapshots 1 3.0
+wikitext 1 3.0
+Java9 1 3.0
+Windows 2 3.0
+Interoperability 3 3.0
+Rpy 3 3.0
+architecture 1 3.0
+java 3 3.0
+FACET 2 3.0
+History view 1 3.0
+gtk3 3 3.0
+Connection Wizard 1 3.0
+blame 1 3.0
+Wayland 9 3.0
+PHP7.1 1 3.0
+schedule 2 3.0
+9 73 3.0273972602739727
+rename method 1 3.0
+The method cannot be moved, since it has references to  enclosing instances. 1 3.0
+JS Debugger 2 3.0
+Unit Test 1 3.0
+gdb.7.11 2 3.0
+Open Resource 1 3.0
+Windows 10 1 3.0
+qvtr 18 3.0
+Console View 1 3.0
+Call Stack 1 3.0
+CG 1 3.0
+System Elements 1 4.0
+Target Platform 1 3.0
+API tools 1 3.0
+behavior.ui 1 3.0
+Variables view 2 3.0
+genmodel 1 3.0
+ecore 1 3.0
+C++ Lang 1 3.0
+Application model editor 1 3.0
+lldb 9 3.0
+Tooling, runtime 1 3.0
+scalability 3 3.0
+errors 2 3.0
+User Experience 2 3.0
+qvts2qvti 4 3.0
+qvtp2qvts 1 3.0
+Renderer 1 3.0
+InsecureCipherMode 1 3.0
+Preview 2.0 1 3.0
+allstop 2 3.0
+async 2 3.0
+code mining 15 3.1333333333333333
+IDE Discussion 1 3.0
+Cannot convert postfix expression. It is used inside another expression. 1 3.0
+Pull Up field 1 3.0
+Field 'p.C.x' declared in type 'p.C' has a different type than its moved counterpart 1 3.0
+Papyrus, Diagram 1 3.0
+Generic Editor 1 3.0
+simrel 1 3.0
+Tooling, Compare 3 3.0
+Codegen Java 1 3.0
+asciidoc generation 1 3.0
+properties editor 1 3.0
+p2 UI 1 3.0
+Jface 1 3.0
+Viewpoint 1 3.0
+Traditional Rendering 1 3.0
+LAMI 1 3.0
+Feature request 1 3.0
+lambda 1 3.0
+qvtc 3 3.0
+NamedQuery/JPQL/Validation 1 3.0
+css 1 3.0
+Dark theme 5 3.0
+Provisioning Process 1 3.0
+PERFO 1 3.0
+Capsule Structure, Canonical Policy 1 3.0
+tycho-packaging-plugin 1 3.0
+org.eclipse.ease.modules.modeling 1 3.0
+lami 1 3.0
+JUnit 5 7 3.0
+umlx 1 3.0
+Target Generic Editor 1 3.0
+Text Compare 1 3.0
+Forum 1 3.0
+MAC 1 3.0
+State-machine diagram 1 3.0
+Capsules 1 3.0
+part management 1 3.0
+KDE? 1 3.0
+64bit 1 3.0
+RcpTT 2 3.0
+Usecase 1 3.0
+Common Navigator 1 3.0
+uml2as 1 3.0
+Trigger 1 3.0
+atl2qvtr 1 3.0
+Menu Context 1 3.0
+Py4J Debugger 2 3.0
+Py4J 2 3.0
+pivot-uml 1 3.0
+State Machine 2 3.0
+execution 1 3.0
+HIDPI 1 3.0
+FEEP 1 3.0
+Tracking 2 3.0
+apt 1 3.0
+aird editor 2 4.0
+py4j 1 3.0
+dark theme 1 3.0
+TreeTable 1 3.0
+Matrix 5 3.0
+Property 1 3.0
+UML-UCM Designer 1 3.0
+cdtserial 1 3.0
+Registers 1 3.0
+gdb.8.0 1 3.0
+2 1 3.0
+Eclipse installation wizard fails first time if called programmatically 1 3.0
+JDK-8182734 1 3.0
+similar to bug 515311 1 3.0
+breakpoint 1 3.0
+Profile 5 3.0
+generic editor 1 4.0
+File search 1 3.0
+EGX 1 3.0
+xp 1 3.0
+InteractionOverviewDiagram 1 3.0
+Link 1 3.0
+Property View 1 3.0
+Webkit2 3 3.3333333333333335
+Terminal 1 3.0
+JPA 2.2 1 3.0
+trace 3 3.0
+PolarSys.NG661Designer 1 3.0
+3.12.0.v20160606-1342 1 3.0
+DataType 1 3.0
+ProjectEditors 1 3.0
+faq 1 3.0
+Oomph 1 3.0
+Autocomplete 1 3.0
+Composite structure diagram 1 3.0
+MARTE, VSL 1 3.0
+Branding 1 3.0
+Trees 1 3.0
+Help > Marketplace 1 3.0
+10 6 3.0
+newfsmgen 1 3.0
+18.3 3 3.0
+memory monitor view 1 3.0
+osgi R7 1 3.0
+statics 1 3.0
+calls 1 3.0
+qvtr2qvts 5 3.0
+Rhino Debug 1 3.0
+StyledText  1 3.0
+Tracker 2 3.0
+Generic Edge Creation Tool 3 3.0
+history view 1 3.0
+Tips 11 3.0
+FAQ 1 3.0
+UI change request 1 3.0
+Oxygen Release (4.7.0) gdb 7.10 1 3.0
+TemplateCompletionProcessor  1 3.0
+ia 1 3.0
+Rhino Debugger 1 3.0
+Composite Diagram 1 3.0
+Python * 1 3.0
+[nodiscard 1 3.0
+[maybe_unused 1 3.0
+Photon 3 3.0
+committers 1 3.0
+osgi r7 1 3.0
+dsl 1 3.0
+BinaryResource 1 3.0
+Migration 1 3.0
+EPP Photon RC3 1 3.0
+Architecture Framework 2 3.0
+EFM 1 3.0
+room.ui 1 3.0
+Rename menu 1 3.0
+9+ 1 3.0
+12 10 3.0
+JEP 309 1 3.0
+Papyrus Wellcome Page 1 3.0
+Stats 1 3.0
+MATE/Ambiance 1 3.0
+reflog 1 3.0
+Sequence 1 3.0
+Feature editor 1 3.0
+SourceEditor, NiConsole 1 3.0
+SourceEditor 1 3.0
+11 5 3.0
+Quickfix 1 3.0
+UML utilities 1 3.0
+ELK 6 3.0
+selective 1 3.0
+10.14 1 3.0
+Font 1 3.0
+AF 3 3.0
+Customization 1 3.0
+StateMachine diagram 1 3.0
+testsources 1 3.0
+PageManager 1 3.0
+EPF Composer 1 3.0
+Darktheme 2 3.0
+Remove Deprecated 2 3.0
+Code Mining 1 3.0
+GTK4 3 3.0
+Marker Property Page 1 3.0
+Recorder 1 3.0
+X 6 3.0
+X11 1 3.0
+mentors 1 3.0
+OCST #001 1 3.0
+Webkit 1 3.0
+pivot-gen 1 3.0
+10.11 1 3.0
+JUnit 4 1 3.0
+OpenModel 1 3.0
+SubPackage 1 3.0
+release 9 3.0
+Ubuntu 1 3.0
+Sirius 1 3.0
+Diagrams - ElementTypes 1 3.0
+EMFValidation 1 3.0
+CleanTheRoom 1 3.0
+RSE 1 3.0
+DecorationModel 1 3.0
+OI2JIRO 4 3.0
+robotics 1 3.0
+Eclipse CDT 1 3.0
+Toolsmith 1 3.0
+macOS 3 3.0
+Layers 1 3.0
+servlet bridge 1 3.0
+target editor 2 3.0
+JDT 1 3.0
+Advanced Source Lookup 1 3.0
+new index 1 3.0
+Proposal 1 3.0
+GTK3.22+ 1 3.0
+OLE Win10 1 3.0
+switch expression 1 3.0
+coverage 1 3.0
+GPG signing 2 3.0
+META 1 3.0
+Virtual Table 1 3.0
+Auto Value 1 3.0
+oclstdlib 1 3.0
+ecore2pivot 1 3.0
+chain 1 3.0
+Project explorer 1 3.0
+DTL 1 3.0
+complete 1 3.0
+projectmap 2 3.0
+Quicksearch 3 3.0
+… 1 3.0
+Content-Types 1 3.0
+generators, ui 1 3.0
+Robotics 1 3.0
+C++ CodeGen 1 3.0
+C++ Gen 1 3.0
+styled text 1 3.0
+Designer, releng 1 3.0
+Designer, C++ 1 3.0
+10.15 1 3.0
+cleanup & saveaction 1 3.0
+WelcomePage 1 3.0
+Internationalization 1 3.0
+EVL 1 3.0
+MSVC 1 3.0
+CJE2JIRO 1 3.0
+Robotics, releng 1 3.0
+MacOS 10.15 1 3.0
+Robotics, properties 1 3.0
+Robotics, examples 1 3.0
+fonts 1 3.0
+Tools 1 3.0
+Rule Model 1 3.0
+mentor 1 3.0
+R-Console 1 3.0
+Model2Doc 1 3.0

@@ -1,1 +1,0 @@
-closed_issue.txt，open_issue.txt分别是github上vscode项目的issues，按评论数降序爬了200页issue标题。label.txt是vscode项目的labels，closed_issue.py，open_issue.py，label.py分别是爬虫代码。
